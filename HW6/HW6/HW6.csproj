@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DictionaryPracticeLibrary\DictionaryPracticeLibrary.csproj" />
+    <ProjectReference Include="..\ListPractiseLibrary\ListPractiseLibrary.csproj" />
   </ItemGroup>
 
 </Project>

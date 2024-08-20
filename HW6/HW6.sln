@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW6", "HW6\HW6.csproj", "{A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryPracticeLibrary", "DictionaryPracticeLibrary\DictionaryPracticeLibrary.csproj", "{9EFB857A-CFC8-4D6F-88F9-2AD5018563AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPractiseLibrary", "ListPractiseLibrary\ListPractiseLibrary.csproj", "{2C4872AA-7A50-40F2-9CAE-BCD1EE6FB636}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9EFB857A-CFC8-4D6F-88F9-2AD5018563AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EFB857A-CFC8-4D6F-88F9-2AD5018563AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EFB857A-CFC8-4D6F-88F9-2AD5018563AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4872AA-7A50-40F2-9CAE-BCD1EE6FB636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4872AA-7A50-40F2-9CAE-BCD1EE6FB636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4872AA-7A50-40F2-9CAE-BCD1EE6FB636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4872AA-7A50-40F2-9CAE-BCD1EE6FB636}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

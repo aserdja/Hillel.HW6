@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryPracticeLibrary",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListPractiseLibrary", "ListPractiseLibrary\ListPractiseLibrary.csproj", "{2C4872AA-7A50-40F2-9CAE-BCD1EE6FB636}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueuePracticeLibrary", "QueuePracticeLibrary\QueuePracticeLibrary.csproj", "{7969CE80-B739-49D4-A0B0-BDC2BA358853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueuePracticeLibrary", "QueuePracticeLibrary\QueuePracticeLibrary.csproj", "{7969CE80-B739-49D4-A0B0-BDC2BA358853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTablePracticeLibrary", "HashTablePracticeLibrary\HashTablePracticeLibrary.csproj", "{7EEBBFE0-EC09-47EC-A185-4C4E05244649}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7969CE80-B739-49D4-A0B0-BDC2BA358853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7969CE80-B739-49D4-A0B0-BDC2BA358853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7969CE80-B739-49D4-A0B0-BDC2BA358853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEBBFE0-EC09-47EC-A185-4C4E05244649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEBBFE0-EC09-47EC-A185-4C4E05244649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEBBFE0-EC09-47EC-A185-4C4E05244649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEBBFE0-EC09-47EC-A185-4C4E05244649}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

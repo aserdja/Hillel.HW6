@@ -11,6 +11,7 @@
     <ProjectReference Include="..\DictionaryPracticeLibrary\DictionaryPracticeLibrary.csproj" />
     <ProjectReference Include="..\HashTablePracticeLibrary\HashTablePracticeLibrary.csproj" />
     <ProjectReference Include="..\ListPractiseLibrary\ListPractiseLibrary.csproj" />
+    <ProjectReference Include="..\QueuePracticeLibrary\QueuePracticeLibrary.csproj" />
   </ItemGroup>
 
 </Project>
